@@ -25,7 +25,7 @@
        <div class="group  px-5 position-absolute top-50 start-0 translate-middle-y">
         <div class="top my-3">
          <span class="rounded-circle fst-italic bg-primary text-white fs-5 p-1">By</span>
-         <span class="fs-5">Abrar Hussain</span>
+         <span class="fs-5">Asif Ali khoso</span>
         </div>
 
         <div class="bottom">
